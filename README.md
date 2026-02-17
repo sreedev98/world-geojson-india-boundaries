@@ -1,6 +1,6 @@
 # World Map (India boundary variant)
 
-This repository provides GeoJSON and TopoJSON files of the world with country boundaries depicting India including territories claimed by it. This is useful for projects that require an India-aligned boundary depiction, including publication contexts in India; users should verify applicable requirements for their organisation and jurisdiction.
+This repository provides GeoJSON and TopoJSON files of the world with country boundaries depicting India including territories claimed by it (whole of Jammu and Kashmir). This is useful for projects that require an India-aligned boundary depiction, including publication contexts in India; users should verify applicable requirements for their organisation and jurisdiction.
 
 The repo includes:
 
